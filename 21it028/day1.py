@@ -25,4 +25,4 @@ print(mystack.pop())
 print(mystack.pop())
 print(mystack.size())
 print(mystack.pop())
-333333333333
+
